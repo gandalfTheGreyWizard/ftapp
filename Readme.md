@@ -2,11 +2,12 @@ Installation
 
 1. install xampp
 2. copy all the files inside the htdocs folder
-3. open terminal
-4. get inside the htdocs of xampp folder using terminal
-5. type chmod 777 -R *
-6. you are good to go
-7. enjoy
+3. create a folder named 'user_data' inside the htdocs folder
+4. open terminal
+5. get inside the htdocs of xampp folder using terminal
+6. type chmod 777 -R *
+7. you are good to go
+8. enjoy
 
 
 
